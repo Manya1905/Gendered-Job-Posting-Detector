@@ -1,0 +1,26 @@
+# Secrets
+keys.json
+.env
+
+# Raw data (Kaggle LinkedIn Job Postings — download separately)
+*.csv
+*.xlsx
+code/jobs/
+code/mappings/
+
+# Generated outputs
+code/rewrites/
+code/*.json
+*.png
+
+# Model checkpoints
+output/
+code/output/
+code/bert_gendered/
+checkpoint-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

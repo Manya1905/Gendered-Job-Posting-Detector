@@ -1,0 +1,13 @@
+pandas
+numpy
+openpyxl
+nltk
+gensim
+scikit-learn
+matplotlib
+seaborn
+torch
+transformers
+accelerate
+anthropic
+openai
